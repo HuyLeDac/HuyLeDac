@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HuyLeDac
-- 👀 I’m interested in CS
-- 🌱 I’m currently learning Java, Python
+- 👀 Studying CS in Uni Stuttgart
+- 🌱 Currently learning Java, Python
 
 <!---
 HuyLeDac/HuyLeDac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
