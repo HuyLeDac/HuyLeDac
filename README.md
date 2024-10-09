@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HuyLeDac
 - 👀 Studying CS in Uni Stuttgart
-- 🌱 Currently learning Java, Python
+- 🌱 Currently learning Java, Python, Flutter
 
 <!---
 HuyLeDac/HuyLeDac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
